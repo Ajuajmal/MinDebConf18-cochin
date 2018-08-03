@@ -1,4 +1,4 @@
-<!doctype html>	
+<!doctype html>
 <!--[if lt IE 7]><html lang="en" class="no-js ie6"><![endif]-->
 <!--[if IE 7]><html lang="en" class="no-js ie7"><![endif]-->
 <!--[if IE 8]><html lang="en" class="no-js ie8"><![endif]-->
@@ -8,13 +8,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Mini-DebConf Mumbai 2016</title>
+    <title>MiniDebConf Cochin 2018</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <link rel="shortcut icon" href="favicon.ico">
 
     <link rel="stylesheet" href="css/bootstrap.css">
-    
+
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/slick.css">
@@ -43,9 +43,9 @@
             </div>
         </div>
     </div>
-   
+
     <header>
-        
+
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
@@ -85,7 +85,7 @@
                 <!-- /.container-->
         </nav>
 
-        
+
         <!--RevSlider-->
         <div class="tp-banner-container">
             <div class="tp-banner" >
@@ -99,14 +99,14 @@
 
 
 
-                        <div class="tp-caption large_black_bold sft" data-x="220" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
-                            January
+                        <div class="tp-caption large_black_bold sft" data-x="170" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
+                          <font color="white">  September</font>
                         </div>
-                        <div class="tp-caption large_black_bold sfr" data-x="440" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
-                            &nbsp;&nbsp;30-31, 2016
+                        <div class="tp-caption large_black_bold sfr" data-x="470" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
+                            &nbsp;&nbsp;15-16, 2018
                         </div>
                         <div class="tp-caption large_black_bold sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                            Mini-DebConf Mumbai
+                            MiniDebConf Cochin
                         </div>
 
                         <div class="tp-caption sfb hidden-xs" data-x="370" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
@@ -120,23 +120,23 @@
                     <!-- SLIDE 2 -->
                     <li data-transition="zoomout" data-slotamount="7" data-masterspeed="700" >
                         <!-- MAIN IMAGE -->
-                        <img src="img/directiplex-2.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="img/s1.png"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
-                        
-                        
+
+
                     </li>
 
                     <!-- SLIDE 3 -->
                     <li data-transition="zoomout" data-slotamount="7" data-masterspeed="900" >
                         <!-- MAIN IMAGE -->
-                        <img src="img/directiplex-3.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                        <img src="img/s3.jpeg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
-                        
-                        
+
+
                     </li>
-                    
+
                 </ul>
             </div>
         </div>
@@ -147,24 +147,24 @@
 
     <div class="wrapper">
 
-        
+
 
         <section id="about">
             <div class="container">
-                
+
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>About Us</h1>
                     <div class="divider"></div>
                     <p>“Debian is the Universal Operating System of the users, by the users, for the users.”</p>
                     <p align="center">&mdash; Anonymous</p>
                     <p></p>
-                    <p>DebConf is the annual Debian conference which is held in a different country every year.&nbsp;<a href="http://debconf16.debconf.org/" target="_blank">DebConf16</a> will be held in Cape Town, South Africa in July 2016.</p>
+                    <p>DebConf is the annual Debian conference which is held in a different country every year.&nbsp;<a href="http://debconf18.debconf.org/" target="_blank">DebConf18</a> was held in Hsinchu, Taiwan, from July 29 to August 5, 2018.</p>
                     <p></p>
-                    <p>Mini-DebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
+                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
                     <p></p>
                     <p><strong>Why Attend ?</strong></p>
-                    <p>A mini-DebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, advance the cause of Debian and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
-                                        
+                    <p>A MiniDebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, advance the cause of Debian and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
+
                 </div>
 <!--
                 <div class="row">
@@ -206,15 +206,15 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Schedule</h1>
                     <div class="divider"></div>
-                    <p>DAY 1 &mdash; 30/01/2016 </p>
+                    <p>DAY 1 &mdash; 15/09/2018 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%; font-family: Lato;">
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align: center;"><span>Time</span></th>
-			<th scope="col" style="text-align: center;"><span>Sauron</span></th>
-			<th scope="col" style="text-align: center;"><span>Gandalf</span></th>
-			<th scope="col" style="text-align: center;"><span>Isildur</span></th>
+			<th scope="col" style="text-align: center;"><span>Main</span></th>
+			<th scope="col" style="text-align: center;"><span>Stall 1</span></th>
+			<th scope="col" style="text-align: center;"><span>Stall 2</span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -226,59 +226,59 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">09:30 &ndash; 11:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">11:00 &ndash; 12:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Round-table discussion on Desktop Design and Designability of Debian &mdash; Siri Reiter and Jonas Smedegaard</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">FOSS Legacy of Ian Murdock &mdash; Patrick Chanezon</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 14:30</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">14:30 &ndash; 15:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">The Debian Desktop &mdash; Shirish Agrawal</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 17:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Planning session for DebConf India 2018</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">17:00 &ndash; 19:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 	</tbody>
 </table>
 
 <p style="text-align: center;">&nbsp;</p>
-                    <p>DAY 2 &mdash; 31/01/2016 </p>
+                    <p>DAY 2 &mdash; 16/09/2018 </p>
                     <div id="first-day" style="color: #000;">
                     <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
 	<thead>
 		<tr style="background-color:#D3D3D3; text-align: center;">
 			<th scope="col" style="text-align: center;"><span>Time</span></th>
-			<th scope="col" style="text-align: center;"><span>Sauron</span></th>
-			<th scope="col" style="text-align: center;"><span>Gandalf</span></th>
-			<th scope="col" style="text-align: center;"><span>Isildur</span></th>
+			<th scope="col" style="text-align: center;"><span>Main</span></th>
+			<th scope="col" style="text-align: center;"><span>Stall 1</span></th>
+			<th scope="col" style="text-align: center;"><span>Stall 2</span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -290,44 +290,44 @@
 		</tr>
 		<tr>
 			<td style="text-align: center;">09:30 &ndash; 10:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">10:00 &ndash; 12:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Creating Debian Blends using Boxer &mdash; Jonas Smedegaard</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">12:00 &ndash; 13:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">13:00 &ndash; 15:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">OpenStack in Debian &mdash; Akansha Agarwal and Sana Khan</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">15:00 &ndash; 17:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">OwnCloud workshop &mdash; Raju Vindane</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 		<tr>
 			<td style="text-align: center;">17:00 &ndash; 19:00</td>
-			<td style="text-align: center;">Packaging workshop / Bug-squashing party</td>
-			<td style="text-align: center;">Hamara Linux &ndash; Making Technology Ours &mdash; Vikas Tara</td>
-			<td style="text-align: center;">Hackathon / BoFs</td>
+			<td style="text-align: center;">Updated Soon</td>
+			<td style="text-align: center;">Updated &mdash; Soon</td>
+			<td style="text-align: center;">Updated Soon</td>
 		</tr>
 	</tbody>
 </table>
 
-                    
+
 </div>
 </div>
 <!--
@@ -430,7 +430,7 @@
                         </div>
                     </div>
                 </div>
--->                
+-->
             </div>
         </section>
 
@@ -644,7 +644,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>                            
+                            </div>
                             <div class="review rollitin">
                                 <div class="row">
                                     <div class="col-md-2">
@@ -795,14 +795,14 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </section>
--->                
+-->
 
         <section id="sponsors">
             <div class="container">
@@ -810,7 +810,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Sponsors</h1>
                     <div class="divider"></div>
-                    <p>Please contact us on the Mini-DebConf India mailing list if you would like to sponsor the event.</p>
+                    <p>Please contact us on the MiniDebConf India mailing list if you would like to sponsor the event.</p>
                 </div>
 
 <!--
@@ -871,19 +871,19 @@
 					</div>
                 <div class="slider filtering scrollpoint sp-effect5" >
                                     <div class="one">
-                        <img src="img/berry/screens/eig.gif" alt="Endurance International Group">
-                        <h4>Endurance International Group<br><a href="http://www.endurance.com/" target="_blank">Website</a></h4>
+                        <img src="img/sp.png" alt="Sponsor">
+                        <h4>Sponsor<br><a href="#" target="_blank">Website</a></h4>
                     </div>
                 </div>
                 <div class="filter scrollpoint sp-effect3">
 							 <a href="javascript:void(0)" class="button js-filter-all active">Accounting Partner</a>
 					</div>
-                <div class="slider filtering scrollpoint sp-effect5" >
-                                    <div class="one">
-                        <img src="img/berry/screens/dff.jpg" alt="Digital Freedom Foundation">
-                        <h4>Digital Freedom Foundation<br><a href="http://www.dff.org.in/" target="_blank">Website</a></h4>
-                    </div>
-                </div>		                					
+          <div class="slider filtering scrollpoint sp-effect5" >
+                              <div class="two">
+                  <img src="img/sp.png" alt="Sponsor">
+                  <h4>Sponsor<br><a href="#" target="_blank">Website</a></h4>
+              </div>
+                </div>
             </div>
         </section>
 
@@ -896,7 +896,9 @@
                     <p>Register for the event at&nbsp;<a href="https://www.eventbrite.com/e/mini-debconf-mumbai-2015-tickets-15022071420" target="_blank">Eventbrite</a>.</p>
 -->
                     <p>Registration is free of charge and will be taken at the venue. Spot registrations are subject to availability.</p>
-                    <p>Please contact us if you need assistance with accommodation in Mumbai.</p>
+                    <p>Register for the event at&nbsp;<a href="#" target="_blank">Eventbrite</a>.</p>
+
+                    <p></p>
                     <p></p> <br />
 <!--
                     <p><strong>Accommodation:</strong></p>
@@ -926,32 +928,29 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Location</h1>
                     <div class="divider"></div>
-                    <p>The event will be held at the Mumbai office of EIG in the Sauron, Gandalf and Isildur conference halls, Directiplex, Andheri (E), Mumbai.</p>
+                    <p>The event will be held at the CUSAT 's' conference halls, Kochi.</p>
 <!--
                     <p><img style="width: 153px; height: 150px; background: #fff;" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/IIT_Bombay_Logo.svg/200px-IIT_Bombay_Logo.svg.png" align="left"><strong>Indian Institute of Technology Bombay</strong> <br>The Indian Institute of Technology Bombay, popularly known as IIT Bombay or IITB, is a public research university located in Powai, Mumbai. IITB has 14 departments, 10 multi-disciplinary centres, 3 schools of excellence and 3 inter-disciplinary groups, with a strong emphasis on scientific and technological research.</p>
--->                
-                    <p>Endurance International Group, Inc. (EIG), formerly BizLand, is a web hosting company. The company was founded in 1997 and is headquartered in Burlington, Massachusetts. It achieved its size by acquiring a large number of smaller companies, which it continues to operate under the original brand names.</p>
+-->
+                    <p>Venue partner details.</p>
                     <p><strong>Directions:</strong></p>
 <p><u>Public Transport</u></p>
-<p>Mumbai has a reliable public transport networked by Mumbai Suburban Railway, BEST Buses, Taxis and Auto rickshaws (Auto rickshaws, however do not ply further south than Sion and Bandra). The nearest suburban railway station to Directiplex on the Western line (connecting Churchgate, Mumbai Central, Dadar, Andheri, Borivali, Virar) is Andheri station. The nearest station to Directiplex on the Central line (connecting CST, Dadar, Kurla, Thane, Kalyan) is Ghatkopar.</p>
-<p><u>Suburban Railway Transport:</u></p>
-<p><u>Western line</u><br>
-	Take a fast / slow train on the Western line and get down at Andheri station (east side). Walk 10 minutes to Directiplex.</p>
-<p><u>Central line</u><br>
-	Out of the two stations (Dadar and Ghatkopar), if Ghatkopar station is closest, then take a fast / slow train on the Central line and get down at Ghatkopar station. Take a Metro train and get down at Andheri station. Walk 10 minutes to Directiplex.<br>
-	Out of the two stations (Dadar and Ghatkopar), if Dadar station is closest, then take a fast / slow train on the Central line and get down at Dadar station. Follow the instructions to get to Directiplex from the Western line (as given above).</p>
+<p>Metro services available to CUSAT from major Railway Stations In Ernakulam</u></p>
+<p><u>Cab services</u><br>
+	OLA,UBER are available any where in Kochi.</p>
+<p><u>Pvt.Bus & Kerala RTC</u><br>
 <p><u>If you come by Air</u>:<br>
-	International flights land at Chhatrapati Shivaji International Airport which is about 4.6 Kms from Directiplex. The Domestic Airport is about 4.5 Kms. It is best to take a Pre-paid taxi (costs about ₹200 - ₹250 (about US $3.00 - $4.00) from the Airport to Directiplex, Andheri (East)) from the Airport to Directiplex, near Andheri subway, Andheri (East). Auto rickshaws and regular taxis are also available at both the airports for reaching Directiplex.</p>
-<p>For more information check: <a href="http://directi.com/about/offices#india_office" target="_blank">Directi Mumbai Office</a></p>
+	CIAL.</p>
+<p>For more information check: <a href="#" target="_blank"></a></p>
 
                 </div>
-                
+
                 <div class="row">
                     <div class="col-md-12" style="margin-top: -30px;" >
 							<div id="map" style="margin-top: -20px;" >
                     <p style="color: #fff;" align="center">Get directions with <a href="https://www.openstreetmap.org/way/353751097" target="_blank">OpenStreetMap</a> / <a href="https://goo.gl/maps/3hPjNeoz92N2" target="_blank">Google&nbsp;Maps</a></p>
                     </div>
-                    
+
 <!--
                         <div class="hanging-phone scrollpoint sp-effect2 hidden-xs">
                             <img src="img/berry/berry-angled2.png" alt="">
@@ -962,7 +961,7 @@
                                 <span>Download for</span><br>
                                 <b>Android</b>
                             </a>
-                            
+
                                 <a href="#" class="btn btn-primary inverse scrollpoint sp-effect2">
                                     <i class="fa fa-apple fa-3x pull-left"></i>
                                     <span>Download for</span><br>
@@ -973,7 +972,7 @@
                     </div>
                 </div>
 
-                
+
 
             </div>
         </section>
@@ -983,14 +982,14 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Contact Us</h1>
                     <div class="divider"></div>
-                    <p>If you would like to contact us or volunteer for the event, please get in touch with us on the Mini-DebConf India Mailing List. This website's code is available on <a href="https://github.com/rigved/in2016.mini.debconf.org" target="_blank">GitHub</a>.</p>
+                    <p>If you would like to contact us or volunteer for the event, please get in touch with us on the Mini-DebConf India Mailing List. </p>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="row">
 
                             <div class="col-md-8 col-sm-8 scrollpoint sp-effect1 section-heading">
-                                <p>Directiplex<br>Next to Andheri Subway, Old Nagardas Road<br>Andheri (E), Mumbai - 400069<br>Maharashtra, India</p>
+                                <p>FOSS CLUB<br>Cochin<br>Kochi, Ernakulam - 6xxxxx<br>Kerala, India</p>
 <!--                                <form role="form">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Your name">
@@ -1004,7 +1003,7 @@
                                     <button type="submit" class="btn btn-primary btn-lg">Submit</button>
                                 </form>
 -->
-                            </div>                            
+                            </div>
                             <div class="col-md-4 col-sm-4 contact-details scrollpoint sp-effect2">
                                 <div class="media">
                                     <a class="pull-left" href="#contactus" >
@@ -1031,7 +1030,7 @@
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">
-                                        	  <a href="https://lists.debian.org/debian-dug-in/" target="_blank">Debian India Mailing List</a>
+                                        	  <a href="#" target="_blank">Debian India Mailing List</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -1041,7 +1040,7 @@
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">
-                                        	  <a target="_blank" href="mailto:debian[at]shieldofachilles[dot]in">debian[at]shieldofachilles[dot]in</a>
+                                        	  <a target="_blank" href="mailto:">mail</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -1058,9 +1057,9 @@
                     <img src="img/berry/logo.png" alt="" class="logo">
                 </a>
                 <div class="social">
-                    <a href="https://twitter.com/DebianIndia" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
-                    <a href="https://plus.google.com/u/0/communities/114169648307190824632" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
-                    <a href="https://www.facebook.com/DebianIndia/" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
+                    <a href="#" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+                    <a href="#" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
+                    <a href="#" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
                     <p>Copyright &copy;  DebianIN</p>
