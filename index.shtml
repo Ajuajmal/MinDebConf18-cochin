@@ -8,7 +8,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>MiniDebConf Cochin 2018</title>
+    <title>DebUtsav Cochin 2018</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <link rel="shortcut icon" href="favicon.ico">
@@ -103,10 +103,10 @@
                           <font color="white">  September</font>
                         </div>
                         <div class="tp-caption large_black_bold sfr" data-x="470" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
-                            &nbsp;&nbsp;15-16, 2018
+                          <font color="white">  &nbsp;&nbsp;15-16, 2018</font>
                         </div>
                         <div class="tp-caption large_black_bold sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                            MiniDebConf Cochin
+                          <font color="#d70a53">  DebUtsav</font> <font color="white">Cochin</font>
                         </div>
 
                         <div class="tp-caption sfb hidden-xs" data-x="370" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
@@ -160,10 +160,10 @@
                     <p></p>
                     <p>DebConf is the annual Debian conference which is held in a different country every year.&nbsp;<a href="http://debconf18.debconf.org/" target="_blank">DebConf18</a> was held in Hsinchu, Taiwan, from July 29 to August 5, 2018.</p>
                     <p></p>
-                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
+                    <p>DebUtsavs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
                     <p></p>
                     <p><strong>Why Attend ?</strong></p>
-                    <p>A MiniDebConf is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, advance the cause of Debian and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
+                    <p>A DebUtsav is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, advance the cause of Debian and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
 
                 </div>
 <!--
@@ -810,7 +810,7 @@
                 <div class="section-heading scrollpoint sp-effect3">
                     <h1>Sponsors</h1>
                     <div class="divider"></div>
-                    <p>Please contact us on the MiniDebConf India mailing list if you would like to sponsor the event.</p>
+                    <p>Please contact us on the DebUtsav India mailing list if you would like to sponsor the event.</p>
                 </div>
 
 <!--
@@ -910,7 +910,7 @@
                     <p>Hotel Hotline/Manager: +91 7303843431</p>
                     <p></p>
                     <p>Hotel charges per day: ₹2000 for single, ₹2500 for double and ₹3000 for triple.</p>
-                    <p>While booking, please mention that you are going to attend the "MiniDebConf - Directiplex Mumbai on 30-31 Jan", in order to avail the discounted prices.</p>
+                    <p>While booking, please mention that you are going to attend the "DebUtsav - Directiplex Mumbai on 30-31 Jan", in order to avail the discounted prices.</p>
                 </div>
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 scrollpoint sp-effect2">
