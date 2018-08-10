@@ -70,7 +70,7 @@
                             <li><a href="#dd">Debian Developers</a>
                             </li>
                             -->
-                            <li><a href="#sponsors">Sponsors</a>
+                            <li><a href="#sponsors">Organizers</a>
                             </li>
                             <li><a href="#register">Register</a>
                             </li>
@@ -826,8 +826,8 @@
 
 
             <div class="one">
-                <img src="img/fsci.jpg" alt="FOSSEE">
-                <h4>FSCI<br><a href="http://fossee.in/" target="_blank">Website</a></h4>
+                <img src="img/fsci.jpg" alt="Free Software User Groups in India">
+                <h4>FSCI<br><a href="http://fsci.org.in/" target="_blank">Website</a></h4>
             </div>
 
             <!--
@@ -867,8 +867,8 @@
   </div>
         <div class="slider filtering scrollpoint sp-effect5" >
           <div class="one">
-              <img src="img/SDS.png" alt="">
-              <h4>SDS</h4>
+              <img src="img/SDS.png" alt="Student Developers Society">
+              <h4>SDS</h4><br><a href="https://www.studevsoc.com/" target="_blank">Website</a>https://www.studevsoc.com/
           </div>
         </div>
         <div class="filter scrollpoint sp-effect3">
@@ -876,19 +876,19 @@
   </div>
   <div class="slider filtering scrollpoint sp-effect5" >
                       <div class="two">
-          <img src="img/dakf.jpg" alt="dakf">
-          <h4>dakf<br><a href="#" target="_blank">Website</a></h4>
+          <img src="img/dakf.jpg" alt="Democratic Alliance for Knowledge Freedom">
+          <h4>dakf<br><a href="http://www.dakf.in/" target="_blank">Website</a></h4>
       </div>
         </div>
         <div class="filter scrollpoint sp-effect3">
-        <a href="javascript:void(0)" class="button js-filter-all active">FSCI</a>
+        <a href="javascript:void(0)" class="button js-filter-all active">CUSAT</a>
         </div>
                 <div class="slider filtering scrollpoint sp-effect5" >
 
 
                     <div class="one">
-                        <img src="img/cusat.png" alt="FOSSEE">
-                        <h4>CUSAT<br><a href="http://fossee.in/" target="_blank">Website</a></h4>
+                        <img src="img/cusat.png" alt="Cochin University of Science and Technology">
+                        <h4>CUSAT<br><a href="http://www.cusat.ac.in/" target="_blank">Website</a></h4>
                     </div>
                   </div>
 
