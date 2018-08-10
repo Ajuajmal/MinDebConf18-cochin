@@ -868,7 +868,7 @@
         <div class="slider filtering scrollpoint sp-effect5" >
           <div class="one">
               <img src="img/SDS.png" alt="Student Developers Society">
-              <h4>SDS</h4><br><a href="https://www.studevsoc.com/" target="_blank">Website</a>https://www.studevsoc.com/
+              <h4>SDS</h4><br><a href="https://www.studevsoc.com/" target="_blank">Website</a>
           </div>
         </div>
         <div class="filter scrollpoint sp-effect3">
@@ -877,7 +877,7 @@
   <div class="slider filtering scrollpoint sp-effect5" >
                       <div class="two">
           <img src="img/dakf.jpg" alt="Democratic Alliance for Knowledge Freedom">
-          <h4>dakf<br><a href="http://www.dakf.in/" target="_blank">Website</a></h4>
+          <h4>DAKF<br><a href="http://www.dakf.in/" target="_blank">Website</a></h4>
       </div>
         </div>
         <div class="filter scrollpoint sp-effect3">
@@ -894,6 +894,7 @@
 
     </div>
 </section>
+
 
 
 
@@ -932,6 +933,16 @@
                 </div>
             </div>
         </section>
+        <section id="sponsors">
+                   <div class="container">
+
+                       <div class="section-heading scrollpoint sp-effect3">
+                           <h1>Sponsors</h1>
+                           <div class="divider"></div>
+                           <p>Please contact us on the <a href="mailto:sponsors@debutsav.in">sponsors@debutsav.in</a> if you would like to sponsor the event.
+
+
+                           </p>
 
         <section id="location">
             <div class="container-fluid">
