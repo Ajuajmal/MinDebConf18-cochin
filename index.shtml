@@ -29,6 +29,21 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+  <style>  /** for copyleft symbol **/
+.copy-left {
+    display: inline-block;
+    text-align: right;
+    margin: 0;
+    font-size: 1.25em;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: FlipH;
+}
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -99,14 +114,14 @@
 
 
 
-                        <div class="tp-caption large_black_bold sft" data-x="170" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
+                        <a href="#about"><div class="tp-caption large_black_bold sft" data-x="170" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
                           <font color="white">  September</font>
                         </div>
                         <div class="tp-caption large_black_bold sfr" data-x="470" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
                           <font color="white">  &nbsp;&nbsp;15-16, 2018</font>
                         </div>
                         <div class="tp-caption large_black_bold sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                          <font color="#d70a53">  DebUtsav</font> <font color="white">Cochin</font>
+                          <font color="#d70a53">  DebUtsav</font> <font color="white">Cochin</font></a>
                         </div>
 
                         <div class="tp-caption sfb hidden-xs" data-x="370" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
@@ -123,6 +138,9 @@
                         <img src="img/s1.png"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
+                        <a href="#register"><div class="tp-caption large_black_bold sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
+                          <font color="#d70a53">Join With Us</font> <font color="white">Grab Your Tickets</font></a>
+                        </div>
 
 
                     </li>
@@ -133,6 +151,9 @@
                         <img src="img/s4.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
+                        <a href="#sponsors1"><div class="tp-caption large_black_bold sfb" data-x="220" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
+                          <font color="#d70a53">Sponsor</font> <font color="white">The event</font></a>
+                        </div>
 
 
                     </li>
@@ -160,8 +181,8 @@
                     <p></p>
                     <p>DebConf is the annual Debian conference which is held in a different country every year.&nbsp;<a href="http://debconf18.debconf.org/" target="_blank">DebConf18</a> was held in Hsinchu, Taiwan, from July 29 to August 5, 2018.</p>
                     <p></p>
-                    <p>DebUtsavs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
-                    <p></p>
+                    <p>MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.</p>
+                    <p>When majority of talks are not Debian specific, it is called DebUtsav - celebration of Free Software by Debian community.</p>
                     <p><strong>Why Attend ?</strong></p>
                     <p>A DebUtsav is an awesome opportunity for any user who wants to experience the magic of Free and Open Source Software (FOSS). Here you can meet the veterans in FOSS development, develop professional connections which will help you in future, chat with contributors who can guide you, advance the cause of Debian and most importantly, grasp the essence of FOSS development. It is indeed a ‘never miss’ opportunity that will give you a strong foundation to build on!</p>
 
@@ -414,7 +435,7 @@
                 </div>
             </div>
         </section>
-        <section id="sponsors">
+        <section id="sponsors1">
                    <div class="container">
 
                        <div class="section-heading scrollpoint sp-effect3">
@@ -430,11 +451,11 @@
                 <div class="section-heading inverse scrollpoint sp-effect3">
                     <h1>Location</h1>
                     <div class="divider"></div>
-                    <p>The event will be held at the CUSAT 's' conference halls, Kochi.</p>
+                    <p>The event will be held at the CUSAT , Kochi.</p>
 <!--
                     <p><img style="width: 153px; height: 150px; background: #fff;" src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/IIT_Bombay_Logo.svg/200px-IIT_Bombay_Logo.svg.png" align="left"><strong>Indian Institute of Technology Bombay</strong> <br>The Indian Institute of Technology Bombay, popularly known as IIT Bombay or IITB, is a public research university located in Powai, Mumbai. IITB has 14 departments, 10 multi-disciplinary centres, 3 schools of excellence and 3 inter-disciplinary groups, with a strong emphasis on scientific and technological research.</p>
 -->
-                    <p>Venue partner details.</p>
+                  <!--  <p>Venue partner details.</p>
                     <p><strong>Directions:</strong></p>
 <p><u>Public Transport</u></p>
 <p>Metro services available to CUSAT from major Railway Stations In Ernakulam</u></p>
@@ -452,7 +473,7 @@
 							<div id="map" style="margin-top: -20px;" >
                     <p style="color: #fff;" align="center">Get directions with <a href="https://www.openstreetmap.org/way/353751097" target="_blank">OpenStreetMap</a> / <a href="https://goo.gl/maps/3hPjNeoz92N2" target="_blank">Google&nbsp;Maps</a></p>
                     </div>
-
+-->
 <!--
                         <div class="hanging-phone scrollpoint sp-effect2 hidden-xs">
                             <img src="img/berry/berry-angled2.png" alt="">
@@ -522,7 +543,7 @@
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">
-                                            <a href="http://lists.debconf.org/mailman/listinfo/in.mini/" target="_blank">Mini-DebConf India Mailing List</a>
+                                            <a href="#" target="_blank">Mailing List</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -542,7 +563,7 @@
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">
-                                        	  <a target="_blank" href="mailto:">mail</a>
+                                        	  <a target="_blank" href="mailto:contact@debutsav.in">mail</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -563,7 +584,8 @@
                     <a href="https://www.facebook.com/debutsavkochi/" class="scrollpoint sp-effect3" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
                 </div>
                 <div class="rights">
-                    <p>Copyright &copy;  DebUtsav 18</p>
+                    <p>Copyleft <span class="copy-left">&copy;</span> DebUtsav 18</p>
+                    <p><a href="https://git.fosscommunity.in/debutsav/static-website"><i style="font-size:24px;color:red" class="fa" >&#xf296;</i>&nbsp Contribute/Improve the website &nbsp<i style="font-size:24px;color:red" class="fa" >&#xf296;</i></a><p>
                     <p><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" style="border-width:0" alt="Creative Commons License"></a> Content licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.</p>
                     <!--<p>Template by <a href="http://www.scoopthemes.com" target="_blank">ScoopThemes</a></p>
                     <p>Original design by<br /><a title="Visit Developer Website: www.idioticideas.com or email us: purvesh@idioticideas.com" href="http://www.idioticideas.com" target="_self"><img style="width: 180px; margin-top: 10px;" src="img/idioticideas-logo.png" width="180px" alt="IdioticIdeas"></a></p>
