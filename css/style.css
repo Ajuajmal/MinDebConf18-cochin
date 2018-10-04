@@ -698,17 +698,17 @@ form textarea.form-control {
   }
 }
 header {
-  background: #293f6d;
+  background: rgba(255,255,255,0.8);
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #293f6d 0%, #fff 100%);
+/*  background: -moz-linear-gradient(-45deg, #293f6d 0%, #fff 100%);*/
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #293f6d), color-stop(100%, #fff));
+  /*background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #293f6d), color-stop(100%, #fff));*/
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #293f6d 0%, #fff 100%);
+  /*background: -webkit-linear-gradient(-45deg, #293f6d 0%, #fff 100%);*/
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #293f6d 0%, #fff 100%);
+  /*background: -o-linear-gradient(-45deg, #293f6d 0%, #fff 100%);*/
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #293f6d 0%, #fff 100%);
+  /*background: -ms-linear-gradient(-45deg, #293f6d 0%, #fff 100%);*/
   /* IE10+ */
   background: linear-gradient(-45deg, #293f6d 0%, #fff 100%);
   /* W3C */
